@@ -1,3 +1,62 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "elv8"
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Elv8.co Blog"
+  subtitle    = "Technology, Management and Product"
+  copyright   = "© 2018"
+
+  cover       = "/images/default-image.jpg"
+  description = "My Blog about Technology, Management and Product"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "dudil"
+  fbName = "dudil"
+  githubName = ""
+  linkedinName = "dudile"
+  mediumName = "dudil"
+
+  logo = ""
+  orgName = "Elv8.co"
+  orgWebsite = "https://elv8.co"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Dudi Levy"
+  authorAvatar = "images/profile.jpeg"
+  authorLocation = "Tel Aviv, Israel"
+  authorWebsite = "https://elv8.co"
+  authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Articles"
+  url = "/post/"
+  weight = 190
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  Weight = 100
