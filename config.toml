@@ -14,9 +14,10 @@ canonifyurls    = true
   cover       = "/images/default-image.jpg"
   description = "My Blog about Technology, Management and Product"
   metaDescription = ""
-  googleAnalytics = ""
-  customCSS = []
-  RSSLink = ""
+  #googleAnalytics = ""
+  #customCSS = []
+  #RSSLink = ""
+  showSubscribe = false
 
   twitterName = "dudil"
   fbName = ""
