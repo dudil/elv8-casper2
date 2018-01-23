@@ -20,9 +20,10 @@ canonifyurls    = true
 
   twitterName = "dudil"
   fbName = "dudil"
-  githubName = ""
+  githubName = "dudil"
   linkedinName = "dudile"
   mediumName = "dudil"
+  showSupport = false
 
   logo = ""
   orgName = "Elv8.co"
