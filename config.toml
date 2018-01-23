@@ -28,13 +28,13 @@ canonifyurls    = true
   logo = ""
   orgName = "Elv8.co"
   orgWebsite = "/about/"
-  orgDescription = "Here is a description placeholder for your org"
+  orgDescription = ""
 
   author = "Dudi Levy"
   authorAvatar = "images/profile.jpeg"
   authorLocation = "Tel Aviv, Israel"
-  authorWebsite = "/about_me/"
-  authorDescription = "Entrepreneur and Advisor to internet, mobile & gaming companies"
+  authorWebsite = "https://elv.co/about/"
+  authorDescription = "I write about technology, tools, platforms and what you could do with them."
 
   pageNotFoundTitle = "404 - Page not found"
 

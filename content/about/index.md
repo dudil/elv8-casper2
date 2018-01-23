@@ -1,6 +1,6 @@
 ---
 title: "Elv8: Tech Blog"
-image:  ""
+image:  "/images/about/desert_road.jpg"
 description: "My Blog about Technology, Management and Product"
 noauthor: true
 comments: false
@@ -17,7 +17,7 @@ I love to hear others opinions, it usually create a much better and complete pic
 
 {{< figure src="/images/about/profile_image.jpg" text="Thats me!" >}}
 
-### About Myslef
+### About Myself
 
 My name is Dudi Levy.
 I have my stack of experience in software engineering, product management, and people leadership.
