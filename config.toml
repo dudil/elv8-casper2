@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://elv8.co"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "elv8"
@@ -26,14 +26,14 @@ canonifyurls    = true
 
   logo = ""
   orgName = "Elv8.co"
-  orgWebsite = "https://elv8.co"
+  orgWebsite = "/about/"
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Dudi Levy"
   authorAvatar = "images/profile.jpeg"
   authorLocation = "Tel Aviv, Israel"
-  authorWebsite = "https://elv8.co"
-  authorDescription = "Describe yourself.."
+  authorWebsite = "/about_me/"
+  authorDescription = "Entrepreneur and Advisor to internet, mobile & gaming companies"
 
   pageNotFoundTitle = "404 - Page not found"
 
