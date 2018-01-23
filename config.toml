@@ -19,10 +19,10 @@ canonifyurls    = true
   RSSLink = ""
 
   twitterName = "dudil"
-  fbName = "dudil"
+  fbName = ""
   githubName = "dudil"
   linkedinName = "dudile"
-  mediumName = "dudil"
+  mediumName = ""
   showSupport = false
 
   logo = ""
